@@ -1,2 +1,3 @@
 
 _config.yml
+theme: minima
